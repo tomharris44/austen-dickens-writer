@@ -1,0 +1,1 @@
+web: gunicorn gpt2_writer.wsgi
