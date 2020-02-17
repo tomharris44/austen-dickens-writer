@@ -54,7 +54,7 @@ def index(request):
 
     body = timer
 
-    start = time.strptime("14 Feb 20 1:00:00", "%d %b %y %H:%M:%S")
+    start = time.strptime("17 Feb 20 1:00:00", "%d %b %y %H:%M:%S")
 
     start = time.mktime(start)
 
